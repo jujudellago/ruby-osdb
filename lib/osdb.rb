@@ -6,7 +6,7 @@ module OSDb
 
   autoload :Finder,         "#{base_path}/finder"
   autoload :Language,       "#{base_path}/language"
-  autoload :Movie,          "#{base_path}/movie"
+  autoload :Osmovie,        "#{base_path}/osmovie"
   autoload :MovieFile,      "#{base_path}/movie_file"
   autoload :Search,         "#{base_path}/search"
   autoload :Selector,       "#{base_path}/selector"
